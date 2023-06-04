@@ -17,6 +17,8 @@ Make sure you have the required libraries installed.
 Place the 'GOOG.csv' and 'AAPL.csv' files in the same directory as the code file.
 
 Install 
-```pip install pandas
+```
+pip install pandas
    pip install numpy
-   pip install matplotlib```
+   pip install matplotlib
+```
