@@ -1,5 +1,5 @@
 # stock-price-prediction
-Stock price prediction of AAPLE and GOOGLE based on data of 2022 
+Stock price prediction of APPLE and GOOGLE based on data of 2022 
 
 Stock Price Comparison: Apple vs Google
 This code is used to compare the stock prices of Apple and Google by plotting their historical data and predicted prices using linear regression.
